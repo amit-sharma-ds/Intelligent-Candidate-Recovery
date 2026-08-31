@@ -1,4 +1,4 @@
-# 🎯 RedRob Hackathon — Intelligent Candidate Recovery
+
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-DataFrames-150458?logo=pandas&logoColor=white)
